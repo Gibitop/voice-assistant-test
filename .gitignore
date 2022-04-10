@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+node_modules/
+dist/
+
+!example.env
+.env
+src/sandbox.ts

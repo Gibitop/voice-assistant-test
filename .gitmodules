@@ -1,0 +1,3 @@
+[submodule "grpc/yandexCloud"]
+	path = grpc/yandexCloud
+	url = https://github.com/yandex-cloud/cloudapi
